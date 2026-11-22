@@ -1,0 +1,29 @@
+{
+  "fingerprint": "c51426d34c02fdcbc9b0b9351244bdf331a57e7ca9763f931b7753bcbee35185",
+  "assets": {
+    "favicon": {
+      "sha256": "75efd7fd7fdfda6e2060e40445267ffd7b1ce51b5be9a2719ff12ecc141c73ea"
+    },
+    "logo": {
+      "sha256": "75efd7fd7fdfda6e2060e40445267ffd7b1ce51b5be9a2719ff12ecc141c73ea"
+    },
+    "appleIcon": {
+      "sha256": "23b435e79c132b697ae00cf7c065d5c491e8570b9156ed607b6b95b60499302d"
+    },
+    "appIcon": {
+      "sha256": "e32c32db6cd55cbb60f77814f540a63ee755c13aad042e35735353cf8f0ebc3c"
+    },
+    "maskableIcon": {
+      "sha256": "ae88e43aade9f1843b4e396e019860e0ba890f0cfdd4de8d07c5d406b68af9be"
+    },
+    "socialImage": {
+      "sha256": "fd4da43416108690b2364dba0cb5d019d99a3d0324be2512722247b4b3fe9a76"
+    },
+    "hero": {
+      "sha256": "2ff09113ec5a980959a896f8d9c9f22304adadf2d4bd342b1eb37df6bd1d208d"
+    },
+    "emptyState": {
+      "sha256": "56c118a4b0e1353a2e5f0825ad5e5aa7c4373ceaacbabd8b59e002b073b9dd84"
+    }
+  }
+}
